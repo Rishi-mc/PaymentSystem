@@ -1,4 +1,4 @@
-# Task 8: Interface-Based Payment System
+# Interface-Based Payment System
 
 Demonstrates **interfaces** and **polymorphism** in Java through a simple payment processing system.
 
